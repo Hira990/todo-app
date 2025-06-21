@@ -1,2 +1,2 @@
 # todo-app
-My Streamlit To-Do List Web App using Python
+My Streamlit To-Do List Web App using Python and OOP
