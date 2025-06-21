@@ -1,5 +1,4 @@
 # To-Do List App 📝
-My Streamlit To-Do List Web App using Python and OOP
 This is a simple web-based To-Do List app built using OOP, Python and Streamlit.
 
 ## Features
